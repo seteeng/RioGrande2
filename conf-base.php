@@ -1,5 +1,4 @@
 <?php
-
 return [
 //    // latitude,longitude do centro do mapa da busca e do mapa da criação de agentes e espaços
     'maps.center' => [-32.033101, -52.100429],
@@ -40,4 +39,5 @@ return [
         'distrito'      => 'Distrito'
     ],
 ];
+
 

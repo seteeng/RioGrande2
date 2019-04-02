@@ -13,13 +13,13 @@
 //$gray-light: #e2e2e2 !default;
 //$gray-lighter: #eee !default;
 
-//$brand-primary: #1c5690 !default;
+$brand-primary: #227970 !default; //#1c5690
 //$brand-accent: #000000 !default;
 
-//$brand-event: #b3b921 !default;
-//$brand-agent: #1dabc6 !default;
-//$brand-space: #e83f96 !default;
-//$brand-project: #cc0033 !default;
+$brand-event: #EA5B00 !default; //#b3b921
+$brand-agent: #36648B !default; //#1dabc6
+$brand-space: #C5951D !default; //#e83f96
+$brand-project: #69509D !default; //#cc0033
 
 //$brand-info: #40b4b4 !default;
 //$brand-warning: #cc9933 !default;
@@ -33,7 +33,7 @@
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-// $body-bg:               #ffffff !default;
+$body-bg: #FA8072 !default; //#ffffff
 
 
 //** Global text color on `<body>`.
